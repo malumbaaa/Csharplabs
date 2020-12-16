@@ -1,0 +1,13 @@
+C:\Users\Dashk\Desktop\C#2.0\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\Dashk\Desktop\C#2.0\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\Dashk\Desktop\C#2.0\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\Dashk\Desktop\C#2.0\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\Dashk\Desktop\C#2.0\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\Dashk\Desktop\C#2.0\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\ld01\OneDrive\Рабочий стол\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
